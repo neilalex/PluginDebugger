@@ -1,0 +1,7 @@
+[
+	{
+		"caption": "Plugin Debugger: run debug_example (opens Debugger)",
+		"command": "debug_example"
+	}
+]
+

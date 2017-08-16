@@ -1,0 +1,7 @@
+{
+	// python executable, in which environment winpdb is installed (< Python 3)
+	"plugin_debugger_python": "python",
+
+	// show console on exception
+	"plugin_debugger_show_console_on_exception": true
+}
